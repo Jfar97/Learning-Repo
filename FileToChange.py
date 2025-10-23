@@ -3,5 +3,18 @@
 #   A print statement that prints out your name
 # Follow the example below:
 
+# Example of what your changes should look like:
 # Justin Faris - 23 October 2025
 print("Justin Faris")
+
+# Bhavya:
+# COMMENT HERE
+# CODE HERE
+
+# Ovy:
+# COMMENT HERE
+# CODE HERE
+
+# Sneha:
+# COMMENT HERE
+# CODE HERE
